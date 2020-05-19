@@ -1,0 +1,14 @@
+button,
+.button {
+	margin-bottom: 0 !important;
+	margin-right: .5rem;
+}
+.hides{
+	visibility: hidden;
+}
+.font-weight-bold{
+	font-weight: 600;
+}
+table tr td{
+	width:16.66%;
+}
